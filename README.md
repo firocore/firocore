@@ -1,5 +1,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firocore&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=firocore&theme=tokyonight)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firocore&theme=tokyonight)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=firocore&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firocore&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=firocore&theme=tokyonight)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=firocore&theme=tokyonight)
 
 
