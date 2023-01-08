@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://komarev.com/ghpvc/?username=your-github-username)
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=firocore)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=firocore)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firocore&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
