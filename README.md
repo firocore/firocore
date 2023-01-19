@@ -3,7 +3,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=firocore&theme=tokyonight)        ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=firocore&theme=tokyonight)
 
 
-![](https://komarev.com/ghpvc/?username=firocore)
+![](https://komarev.com/ghpvc/?username=firocore) ![image](https://www.codewars.com/users/firocore/badges/large)
 <!--
 **firocore/firocore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
