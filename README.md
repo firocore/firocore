@@ -1,7 +1,6 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning: Python, Postgres, FastAPI
-- 📫 How to reach me: firocore#6736
-- 😄 Pronouns: WTF?
+- 📫 How to reach me: discord: firocore
 ------
 ![image](https://www.codewars.com/users/firocore/badges/large)
 ------
